@@ -16,9 +16,9 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "MUSA 550: Geospatial Data Science in Python"
+title: "GIS Data Science Projects in Python"
 title_separator: "-"
-name: "Nick Hand"
+name: "Wenhao Wu"
 description: "Displaying cool data visualizations"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -105,10 +105,10 @@ analytics:
 
 # Site Author
 author:
-  name: "Nick Hand"
+  name: "Wenhao Wu"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
-  location: "Philadelphia"
+  bio: "GIS Specialist / Urban Planner"
+  location: "Oakland, CA"
   email:
   links:
     - label: "Email"
